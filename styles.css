@@ -1,0 +1,30 @@
+body {
+				font-family: Arial, sans-serif;
+				max-width: 1300px;
+				margin: 0 auto;
+				background-color: #A59EE2;
+	}
+			h1 {
+				text-align: center;
+				font-style: italic;
+				color:  #EBF1FF;
+			}
+			h2 {
+				text-align: center;
+				font-style: normal;
+				color:  #B1FFA1;
+			}
+			
+			table, td {
+				margin: 0 auto;
+				border: 1px solid black;
+			}
+			h4:hover
+			{
+				background-color: #2E6DFF;
+				max-width: 300px;
+				max-height: 50px;
+                border-style: solid;
+                padding: 3px;
+			}
+			
